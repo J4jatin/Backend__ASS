@@ -87,8 +87,7 @@
     ```
   - Example:
     ![image](https://github.com/ritikjee/monter-backend-assignment/assets/96499245/85e91652-9c3a-4c76-92c3-8c1d08900c6d)
-    ![image](https://github.com/ritikjee/monter-backend-assignment/assets/96499245/b1899eb3-0ee4-476b-af46-f8ca7a568970)
-
+   
 - `/api/user/get-user-details`
 
   - Method: GET
