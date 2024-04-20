@@ -1,67 +1,4 @@
-# Monter Backend Assignment
-
-## Description
-
-This is assignment for role of backend developer intern for Monter. It includes all routes and responses mentioned in assignment.
-
-## Tech Stack
-
-**Server:** Node, Express, MongoDB
-
-### Preqrequisites
-
-#### Install Node JS
-
-Refer to https://nodejs.org/en/ to install nodejs
-
-#### Install TypeScript
-
-Refer to https://www.typescriptlang.org/ to install typescript
-
-```bash
-  npm install -g typescript
-```
-
-#### Install ts-node
-
-Refer to https://www.typescriptlang.org/ to install ts-node
-
-```bash
-  npm install -g ts-node
-```
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-     git clone https://github.com/ritikjee/monter-backend-assignment.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-     npm install
-   ```
-
-3. Set up environment variables:
-
-   - Create a `.env` file in the root directory.
-   - Define the following variables:
-     ```
-     PORT=
-     MONGODB_URI=
-     JWT_SECRET=
-     MAIL_ID=
-     MAIL_PASSWORD=
-     ```
-   - You can get the `MONGO_URI` from [MongoDB Cloud ](https://cloud.mongodb.com/) by creating an account.
-
-4. Run the application:
-   ```bash
-     npm run build
-     npm run start
-   ```
+# My Assignment
 
 ## API Routes
 
@@ -84,7 +21,7 @@ Refer to https://www.typescriptlang.org/ to install ts-node
     ```
   - Example:
     ![image](https://github.com/ritikjee/monter-backend-assignment/assets/96499245/c162f479-d97c-4ba1-ac86-27ca088dc2f8)
-    ![image](https://github.com/ritikjee/monter-backend-assignment/assets/96499245/6baa7434-9f03-419c-aea3-2a74319767ff)
+  
 
 - `/api/users/login`
 
@@ -215,19 +152,3 @@ Refer to https://www.typescriptlang.org/ to install ts-node
 
   ![image](https://github.com/ritikjee/monter-backend-assignment/assets/96499245/339b7b6b-2763-4571-ace6-f1f23ee3e296)
 
-## Contributing
-
-If you would like to contribute to SpotiStat, please open an issue or pull request on GitHub
-
-### Ways to contribute
-
-1. Solve the issues which are listed.
-2. Create your own issue and then send PR.
-
-Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
-
-1.  **Fork** the repo on GitHub
-2.  **Clone** the project to your own machine
-3.  **Commit** changes to your own branch
-4.  **Push** your work back up to your fork
-5.  Submit a **Pull request** so that we can review your changes
