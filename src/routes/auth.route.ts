@@ -13,4 +13,4 @@ authRouter.post("/verify", verify);
 authRouter.post("/login", login);
 authRouter.post("/generate-otp", resendOTP);
 
-export default authRoute;
+export default authRouter;
