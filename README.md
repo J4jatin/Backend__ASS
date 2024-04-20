@@ -1,5 +1,7 @@
 # My Assignment
 
+# Deployed Link on Render: https://bit.ly/4b0LX5h
+
 ## API Routes
 
 - `/api/auth/register`
